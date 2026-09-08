@@ -1,5 +1,5 @@
 # Fixed-Income-Portfolio-Risk-Hedging-Analysis.
-# Fixed Income Portfolio Risk & Hedging Analysis
+
 
 ## Project Overview
 
